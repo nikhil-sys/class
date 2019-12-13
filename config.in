@@ -1,0 +1,3 @@
+database_name = some_db
+database_user = db_user
+database_password = password
